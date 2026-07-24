@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "TIPS — Twin-transitions Integrated Policy Simulator"
+version: "7.0"
+date-released: "2026-07-24"
+authors:
+  - family-names: Narayan
+    given-names: Somendra
+    affiliation: "Amsterdam Business School, University of Amsterdam"
+  - family-names: Ramezan Zadeh
+    given-names: M.T. (Taghi)
+    affiliation: "Amsterdam Business School, University of Amsterdam"
+repository-code: "https://github.com/SomendraNarayan/readjust_policy_simulation"
+license: EUPL-1.2
+keywords:
+  - twin transition
+  - agent-based model
+  - inequality
+  - policy simulation
+  - READJUST
+  - Horizon Europe
+abstract: >-
+  Hybrid agent-based simulation of the EU green and digital (twin) transition,
+  exposing how regional administrative absorption capacity shapes the
+  distributional outcomes of transition policy. 97-parameter calibrated
+  manifest; six NUTS-anchored regional archetypes; seeded, reproducible runs.
+  Developed within the READJUST project, EU Horizon Europe GA 101132562.
